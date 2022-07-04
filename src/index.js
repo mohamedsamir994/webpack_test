@@ -1,8 +1,8 @@
-import helloWorld from "./helloWorld";
-import header from "./components/header/header";
-import greet from "./components/greet/greet";
+import hello from "./hello";
+import logo from "./components/logo/logo";
+import body from "./components/body/body";
 import "./style.css";
 
-helloWorld();
-header();
-greet();
+hello();
+logo();
+body();
